@@ -146,7 +146,7 @@ Gracias al editor de Visual Studio, es muy sencillo inspeccionar la definición 
 
 ## <a name="refactor-a-name"></a>Refactorizar un nombre
 
-Nadie crea código correctamente la primera vez y una de las cosas que probablemente se tengan que cambiar es el nombre de una variable o un método. Vamos a probar la funcionalidad de [refactorización](../../ide/refactoring-in-visual-studio.md) de Visual Studio para cambiar el nombre de la variable `_words` a `words`.
+Nadie crea un código correctamente la primera vez y una de las cosas que probablemente se tengan que cambiar es el nombre de una variable o un método. Vamos a probar la funcionalidad de [refactorización](../../ide/refactoring-in-visual-studio.md) de Visual Studio para cambiar el nombre de la variable `_words` a `words`.
 
 1. Coloque el cursor sobre la definición de la variable `_words`, haga clic con el botón derecho y elija **Cambiar nombre** en el menú contextual, o bien presione **Ctrl**+**R**, **Ctrl**+**R**.
 
