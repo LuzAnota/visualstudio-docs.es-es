@@ -97,7 +97,7 @@ Algunas de las características populares de Visual Studio que ayudan a ser más
 
 ## <a name="install-the-visual-studio-ide"></a>Instalación del IDE de Visual Studio
 
-En este artículo de introducción se explica la creación de un proyecto simple y algunas cosas que se pueden hacer con Visual Studio, como cambiar el tema de color, usar [IntelliSense](../ide/using-intellisense.md) como ayuda para la codificación y depurar una aplicación para ver el valor de una variable durante la ejecución del programa. Para comenzar, [descargue Visual Studio 2017](https://visualstudio.microsoft.com/downloads/?utm_medium=microsoft&utm_source=docs.microsoft.com&utm_campaign=inline+link&utm_content=download+vs2017) e instálelo en el sistema.
+En este artículo de introducción se explica la creación de un proyecto simple y algunas cosas que se pueden hacer con Visual Studio, como cambiar de color el tema, usar [IntelliSense](../ide/using-intellisense.md) como ayuda para la codificación y depurar una aplicación para ver el valor de una variable durante la ejecución del programa. Para comenzar, [descargue Visual Studio 2017](https://visualstudio.microsoft.com/downloads/?utm_medium=microsoft&utm_source=docs.microsoft.com&utm_campaign=inline+link&utm_content=download+vs2017) e instálelo en el sistema.
 
 El instalador modular le permite elegir e instalar *cargas de trabajo*, que son grupos de características necesarias para el lenguaje de programación o la plataforma que prefiera. Siga los pasos para [crear un programa](#create-a-program) y no se olvide de seleccionar la carga de trabajo **Desarrollo multiplataforma de .NET Core** durante la instalación.
 
