@@ -193,7 +193,7 @@ Esta es una sección rápida de P+F para destacar algunos conceptos clave.
 
 ### <a name="what-is-c"></a>¿Qué es C#?
 
-[C#](/dotnet/csharp/getting-started/introduction-to-the-csharp-language-and-the-net-framework) es un lenguaje de programación con seguridad de tipos y orientado a objetos que se ha diseñado para ser robusto y fácil de aprender.
+[C#](/dotnet/csharp/getting-started/introduction-to-the-csharp-language-and-the-net-framework) es un lenguaje de programación con seguridad de tipos y orientado a objetos que se ha diseñado para la infraestructura de lenguaje común.
 
 ### <a name="what-is-aspnet-core"></a>¿Qué es ASP.NET Core?
 
