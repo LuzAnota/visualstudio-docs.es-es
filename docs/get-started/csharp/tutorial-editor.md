@@ -101,7 +101,7 @@ La barra de herramientas, que es la fila de botones debajo de la barra de menús
 
 ## <a name="collapse-code-blocks"></a>Contraer bloques de código
 
-No se quiere ver el [constructor](/dotnet/csharp/programming-guide/classes-and-structs/constructors) vacío de `Class1` generado, así que se contrae para despejar la vista del código. Seleccione el pequeño cuadro gris con el signo menos que se ve en el margen de la primera línea del constructor. Si prefiere usar el teclado, coloque el cursor en cualquier lugar en el código del constructor y presione **Ctrl**+**M**, **Ctrl**+**M**.
+No se quiere ver el método [constructor](/dotnet/csharp/programming-guide/classes-and-structs/constructors) vacío de `Class1` generado, así que se contrae para despejar la vista del código. Seleccione el pequeño cuadro gris con el signo menos que se ve en el margen de la primera línea del constructor. Si prefiere usar el teclado, coloque el cursor en cualquier lugar en el código del constructor y presione **Ctrl**+**M**, **Ctrl**+**M**.
 
 ![Botón para contraer de esquematización](../media/tutorial-collapse.png)
 
